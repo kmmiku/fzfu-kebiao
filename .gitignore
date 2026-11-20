@@ -1,0 +1,9 @@
+# 凭据 — 绝不能提交到 git!
+secret.txt
+secret2.txt
+# 生成物: kebiao.json 含学生姓名/学号/班级等隐私, 不入库
+kebiao.json
+__pycache__/
+*.pyc
+probe/
+run_log.txt
